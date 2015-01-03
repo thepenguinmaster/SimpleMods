@@ -1,0 +1,76 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30501.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Locator", "Locator\Locator.csproj", "{8D73E2BE-7C90-41FE-BD0B-59923BAC0825}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MOTD", "MOTD\MOTD.csproj", "{F2300A64-9B90-4419-A775-8BA9793A7200}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tests", "Tests\Tests.csproj", "{C2136052-8847-4465-B132-6D641D03924D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RoidRage", "RoidRage\RoidRage.csproj", "{7785259A-0F32-4F0B-B080-1140BC452326}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StarGate", "StarGate\StarGate.csproj", "{E6829CA0-6D97-4682-B811-9F999143D276}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Teleporter", "Teleporter\Teleporter.csproj", "{E4134A7B-2700-4327-8F22-6D28471B9E50}"
+EndProject
+Global
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 7
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://semods.visualstudio.com/defaultcollection
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = Locator\\Locator.csproj
+		SccProjectName1 = Locator
+		SccLocalPath1 = Locator
+		SccProjectUniqueName2 = MOTD\\MOTD.csproj
+		SccProjectName2 = MOTD
+		SccLocalPath2 = MOTD
+		SccProjectUniqueName3 = Tests\\Tests.csproj
+		SccProjectName3 = Tests
+		SccLocalPath3 = Tests
+		SccProjectUniqueName4 = RoidRage\\RoidRage.csproj
+		SccProjectName4 = RoidRage
+		SccLocalPath4 = RoidRage
+		SccProjectUniqueName5 = StarGate\\StarGate.csproj
+		SccProjectName5 = StarGate
+		SccLocalPath5 = StarGate
+		SccProjectUniqueName6 = Teleporter\\Teleporter.csproj
+		SccProjectName6 = Teleporter
+		SccLocalPath6 = Teleporter
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8D73E2BE-7C90-41FE-BD0B-59923BAC0825}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8D73E2BE-7C90-41FE-BD0B-59923BAC0825}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8D73E2BE-7C90-41FE-BD0B-59923BAC0825}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8D73E2BE-7C90-41FE-BD0B-59923BAC0825}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F2300A64-9B90-4419-A775-8BA9793A7200}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F2300A64-9B90-4419-A775-8BA9793A7200}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F2300A64-9B90-4419-A775-8BA9793A7200}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F2300A64-9B90-4419-A775-8BA9793A7200}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C2136052-8847-4465-B132-6D641D03924D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C2136052-8847-4465-B132-6D641D03924D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C2136052-8847-4465-B132-6D641D03924D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C2136052-8847-4465-B132-6D641D03924D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7785259A-0F32-4F0B-B080-1140BC452326}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7785259A-0F32-4F0B-B080-1140BC452326}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7785259A-0F32-4F0B-B080-1140BC452326}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7785259A-0F32-4F0B-B080-1140BC452326}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E6829CA0-6D97-4682-B811-9F999143D276}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E6829CA0-6D97-4682-B811-9F999143D276}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E6829CA0-6D97-4682-B811-9F999143D276}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E6829CA0-6D97-4682-B811-9F999143D276}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E4134A7B-2700-4327-8F22-6D28471B9E50}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E4134A7B-2700-4327-8F22-6D28471B9E50}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E4134A7B-2700-4327-8F22-6D28471B9E50}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E4134A7B-2700-4327-8F22-6D28471B9E50}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
